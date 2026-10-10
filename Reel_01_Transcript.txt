@@ -1,0 +1,15 @@
+Ссылка на оригинал: https://www.instagram.com/reel/Db5Z8cixSEJ/?rpxt=d2MwaTR2N3dlM2tn
+Язык: English (источник транскрипции: vidIQ watch_shortform_content, не Whisper)
+Длительность: 00:38
+
+ПОЛНАЯ ТРАНСКРИПЦИЯ:
+
+Claude edited this video. Watch this.
+
+This is ChatCut. It's a plugin that turns Claude into a full video editor. I gave it my footage and said, "Keep the good takes, tighten my pauses, add captions, and add motion graphics every two to three seconds." Then I just watched Claude edit my video.
+
+If you don't like the edit, you can ask for a new version right in the chat or ask for specific changes like swap a sound effect or change a font. You just talk to it.
+
+But here's what makes it crazy. You can save your edit as a skill so Claude edits your video the same way next time.
+
+Just add this one line into Claude Code and it installs itself. If you comment ChatCut on this video, I'll send it
